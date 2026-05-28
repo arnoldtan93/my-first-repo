@@ -24,3 +24,6 @@ git status
 
 ## -- ini akan kita pakai untuk liat udah simpen apa aja
 git log 
+
+## Cloning 
+git clone https://github.com/arnoldtan93/my-first-repo.git new_folder_name
