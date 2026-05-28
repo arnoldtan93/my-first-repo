@@ -25,7 +25,14 @@ git status
 ## -- ini akan kita pakai untuk liat udah simpen apa aja
 git log 
 
+## -- narik file dari github
+git pull 
+
 ## Cloning 
 git clone https://github.com/arnoldtan93/my-first-repo.git new_folder_name
 git clone URL repo yang tadi digunakan nama-baru 
 
+## tentang branching 
+git branch <--finding out branches>
+## pengen bikin branch yang baru (feature)
+git checkout -b nama_branch_baru
