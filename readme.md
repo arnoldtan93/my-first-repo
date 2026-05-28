@@ -27,3 +27,5 @@ git log
 
 ## Cloning 
 git clone https://github.com/arnoldtan93/my-first-repo.git new_folder_name
+git clone URL repo yang tadi digunakan nama-baru 
+
